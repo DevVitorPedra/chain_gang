@@ -46,7 +46,7 @@ Ver a lista de bikes disponíveis, com todas as informações individuais de cad
 
 
 
-## 🤝 Obetivo:
+## 🤝 Objetivo:
 
 ```
 Com Objetivo educacional, esta aplicação foi produzido durante o curso de PHP no linkedin, ministrado por Justin Yost
