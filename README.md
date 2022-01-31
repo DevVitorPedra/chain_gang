@@ -13,7 +13,7 @@ O projeto foi finalizado
 
 ## 💻 Pré-requisitos
 
- -criação do banco de dados com os campos para semrem preenchidos
+ -criação do banco de dados com os campos para serem preenchidos
 
 
 
